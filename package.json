@@ -1,7 +1,7 @@
 {
   "name": "tiny-event",
   "version": "1.0.0",
-  "description": "",
+  "description": "tiny event module without any dependencies",
   "main": "index.js",
   "repository": "https://github.com/jserme/tiny-event",
   "scripts": {
