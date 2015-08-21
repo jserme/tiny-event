@@ -1,0 +1,15 @@
+{
+  "name": "tiny-event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/jserme/htmlmin",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "jserme <dev.hubo@gmail.com> (http://jser.me/)",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
