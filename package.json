@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/jserme/htmlmin",
+  "repository": "https://github.com/jserme/tiny-event",
   "scripts": {
     "test": "mocha"
   },
